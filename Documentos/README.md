@@ -4,5 +4,4 @@ Integrantes:-Manuel Carreño
 	  -Alonso Faundez
 	  -Ariel Peña
 
-Funcionamiento del Software:
 
