@@ -1,0 +1,6 @@
+{
+	"ip" : A.B.C.D,
+	"puerto" : 54000,
+	"root_dir" : /home/user/tarea2/www-data
+	"notFountFile":/home/user/tarea2/www-error
+}
